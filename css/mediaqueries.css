@@ -54,6 +54,6 @@
 	.countDownClock .container { width: 240px; height: 45px; margin: 15px auto 15px; box-sizing: border-box; }
 	.countDownClock .flip { margin: 1px; width: 20px; height: 28px; font-size: 20px; line-height: 28px; border-radius: 2px; }
 	.countDownClock .sepr{ margin-right: 5px; }
-	.countDownClock .hourPlay:after, .countDownClock .minutePlay:after, .countDownClock .secondPlay:after, .countDownClock .day-container:after { font-size: 6px; }
+	.countDownClock .hourPlay:after, .countDownClock .minutePlay:after, .countDownClock .secondPlay:after, .countDownClock .day-container:after { font-size:10px; }
 	
 }
